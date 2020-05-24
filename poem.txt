@@ -8,3 +8,4 @@ Yellow
 Orange
 Red
 THESE are the colors of rainbow.
+needs no edits.
