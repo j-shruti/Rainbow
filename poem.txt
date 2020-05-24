@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Rain
 
 Violet
 Indigo
@@ -8,3 +8,4 @@ Yellow
 Orange
 Red
 THESE are the colors of rainbow.
+Adding no color for Rain.
